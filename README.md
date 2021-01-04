@@ -1,2 +1,2 @@
-# PRECON
-Working with the PRECON dataset to understand the electricity consumption behavior of the users.
+# Discovering customer behavior Dynamics, outliers and predicting ToU tariff prices using Load Profiles
+The project “Discovering customer behavior Dynamics, outliers and predicting ToU tariff prices using Load Profiles” aims to understand different consumption behavior of  electricity consumers, find outliers and use the existing data to predict Time of Use (ToU) tariff pricings. This project models the algorithm proposed by Wang and Xia in their publication “Clustering of Electricity Consumption Behavior Dynamics Toward Big Data Applications”, on the PRECON dataset.
